@@ -1,0 +1,24 @@
+---
+title: "What's RyTuneX?"
+date: "2024-03-28 08:00:00"
+tags: [rytunex]
+categories: [software]
+---
+
+![RyTuneX Logo](https://private-user-images.githubusercontent.com/108760398/293473378-9017b3b3-5288-4156-bd18-15dbe64ab111.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MTA1NzYsIm5iZiI6MTcxMTYxMDI3NiwicGF0aCI6Ii8xMDg3NjAzOTgvMjkzNDczMzc4LTkwMTdiM2IzLTUyODgtNDE1Ni1iZDE4LTE1ZGJlNjRhYjExMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQwNzE3NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MjJiMDdjNWRlNGYxM2QwNzVhNzk0MDg5ZDg3ZTIwZWU0MDAxZjk5NDVlYzgzNzQwZmQ0NjdhOWRjY2ZlNzg5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.pkp3kkR5bTo6KeyGnFgnRvJlmRQ7iwU6ArbUXcae4nk)
+
+## Introduction
+
+RyTuneX is all about making your Windows experience better.
+
+I've developed an optimizer using the WinUI 3 framework to boost the performance of your Windows 10 and 11 devices. With RyTuneX, you can easily remove stubborn pre-installed apps, reclaim storage space, and disable unnecessary background services for smoother performance.
+
+![RyTuneX](https://private-user-images.githubusercontent.com/108760398/294768506-7ade8a24-6c01-4d37-be9b-c3c85289dd8b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MTA1NzYsIm5iZiI6MTcxMTYxMDI3NiwicGF0aCI6Ii8xMDg3NjAzOTgvMjk0NzY4NTA2LTdhZGU4YTI0LTZjMDEtNGQzNy1iZTliLWMzYzg1Mjg5ZGQ4Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQwNzE3NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMjc0NGZlMjA2NjBkOGRjY2M0M2E4NzQ2OWZiNTFjMDMyOWE4ZTRlNGE3NjVlNzcxMWMwMTFhNDQwZTRmZGE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.fiVnTvXhyS0dV4h09Z1_Y4HMFydxamxVMog85_jr-IA)
+
+## How everything started
+
+Before RyTuneX, I created RGH Optimizer and Perfexa to optimize gaming PCs. Seeking improvement, RyTuneX emerged from personal experiences and lessons learned. It's more than an optimizer; it's a refined solution born from a commitment to continuous improvement, addressing the evolving needs of the community.
+
+## How can I get it
+
+head over to the [girhub repo](https://github.com/rayenghanmi/rytunex/releases/latest) and download the latest release.
