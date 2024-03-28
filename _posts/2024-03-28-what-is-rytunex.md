@@ -22,4 +22,4 @@ Before RyTuneX, I created RGH Optimizer and Perfexa to optimize gaming PCs. Seek
 
 ## How can I get it
 
-head over to the [girhub repo](https://github.com/rayenghanmi/rytunex/releases/latest) and download the latest release.
+head over to the [github repo](https://github.com/rayenghanmi/rytunex/releases/latest) and download the latest release.
