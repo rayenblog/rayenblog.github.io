@@ -4,6 +4,7 @@ date: 2024-03-28 6:00:00 +0100
 tags: [linux, terminal, gnome]
 categories: [os]
 ---
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
 ### Here you'll learn how to customize your linux terminal
 ![Linux terminal](assets/img/linux/1.png)

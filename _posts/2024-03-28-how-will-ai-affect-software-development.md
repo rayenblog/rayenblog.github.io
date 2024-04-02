@@ -4,6 +4,8 @@ date: "2024-03-28 23:00:00 +0100"
 tags: [ai, issue]
 categories: [tech]
 ---
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+
 ## Demystifying AI: From Algorithms to Life-Changing Tech
 
 Forget the Hollywood robots taking over the world. AI researchers will tell you it's more about clever algorithms than sentient machines. Artificial intelligence (AI) is the buzzword of the decade, and for good reason. It's the art of teaching machines to learn and act like us humans – not perfectly, but well enough to get things done. Imagine machines that can improve with experience, tackling tasks we once thought were uniquely human.
