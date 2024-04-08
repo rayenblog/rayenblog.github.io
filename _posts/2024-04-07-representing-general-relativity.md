@@ -1,6 +1,6 @@
 ---
 title: "Visualizing General Relativity"
-date: "2024-03-28 20:00:00 +0100"
+date: "2024-04-07 20:00:00 +0100"
 tags: [physics, relativity, science, astronomy]
 categories: [science]
 ---

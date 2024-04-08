@@ -1,6 +1,6 @@
 ---
 title: "Pulsars and Neutron Stars"
-date: "2024-03-28 20:30:00 +0100"
+date: "2024-04-07 20:30:00 +0100"
 tags: [science, astronomy]
 categories: [science]
 ---
