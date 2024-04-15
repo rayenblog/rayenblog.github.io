@@ -6,6 +6,8 @@ categories: [linux, open source, backdoor, security vulnerability]
 ---
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
+![XZ Backdoor](assets/img/xz-backdoor/xz-backdoor.jpg)
+
 ## A Nasty Surprise in Common Compression Tool: Backdoor Found in XZ Utils
 
 The world of open-source software was rocked on March 29th, 2024 with the discovery of a malicious backdoor lurking within a seemingly innocuous utility – XZ Utils. This critical tool, commonly used for data compression on Linux systems, harbored a nasty surprise in versions 5.6.0 and 5.6.1, released in February 2024.
