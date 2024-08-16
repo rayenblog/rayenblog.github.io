@@ -16,7 +16,7 @@ timezone: Africa/Tunis
 
 title: Rayen Ghanmi # the main title
 
-tagline: Coding Enthusiast # it will display as the sub-title
+tagline: Informatics Science student # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A tech focused blog posts made by Rayen Ghanmi.
@@ -75,7 +75,7 @@ theme_mode: # [light | dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: 'https://avatars.githubusercontent.com/u/108760398?v=4'
