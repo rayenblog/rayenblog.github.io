@@ -6,8 +6,6 @@ categories: [microsoft, pathces, security, security vulnerability, windows, kern
 ---
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
-# Microsoft August 2024 Security Updates
-
 In August 2024, Microsoft released a significant security update addressing a total of **90 Common Vulnerabilities and Exposures (CVEs)**. This comprehensive update spans various Microsoft products, including Windows, Azure, Office, and more. Below is an in-depth look at the key details of these vulnerabilities.
 
 ## Key Highlights
